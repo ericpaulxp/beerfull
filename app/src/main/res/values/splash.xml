@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppStarting.Theme" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#FF006970</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/beer_splash_final</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.Beerfull</item>
+    </style>
+</resources>
